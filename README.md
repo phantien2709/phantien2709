@@ -43,7 +43,9 @@
   </a>
 </p>
 
-
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=phantien2709&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phantien2709&show_icons=true&locale=en" alt="phantien2709" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantien2709&" alt="phantien2709" /></p>
